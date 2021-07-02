@@ -153,4 +153,11 @@ const defaultConfigFile = `# Configuration file for cloudlist enumeration agent
 #  # profile is the name of the provider profile
 #  profile: staging
 #  # fastly_api_key is the personal API token for fastly account
-#  fastly_api_key: XX-XXXXXXXXXXXXXXXXXXXXXX-`
+#  fastly_api_key: XX-XXXXXXXXXXXXXXXXXXXXXX-
+
+#- # provider is the name of the provider
+#  provider: vultr
+#  # profile is the name of the provider profile
+#  profile: staging
+#  # vultr_api_key is the api key for vultr account
+#  vultr_api_key: XXXXXXXXXXXXXXXXXXXXXXXX`
